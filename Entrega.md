@@ -13,8 +13,8 @@ URL: http://github.com/andreainfufsm/elc139-2021a
 | Memória: compartilhada, distribuída ou ambas?             |                       |                   |
 | Número total de núcleos de processamento                  |                       |                   |
 | Fabricante e modelo do(s) processador(es)                 |                       |Intel Core i5 6200U|
-| Frequência do(s) processador(es)                          |                       |                   |
-| Memória total                                             |                       |                   |
+| Frequência do(s) processador(es)                          |                       |     2400 MHZ      |
+| Memória total                                             |                       |     4096 MHZ      |
 | Tipo(s) de interconexão entre os núcleos/processadores    |                       |                   |
 | Desempenho Linpack                                        |                       |                   |
 
