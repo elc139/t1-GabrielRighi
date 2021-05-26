@@ -1,7 +1,7 @@
 TOP500 & me: Comparativo de Arquiteturas Paralelas
 --------------------------------------------------
 
-Nome: < preencha seu nome aqui >  
+Nome: < Gabriel Farencena Righi >  
 Disciplina: ELC139 - Programação Paralela - UFSM - 2021a  
 URL: http://github.com/andreainfufsm/elc139-2021a  
 
@@ -20,6 +20,6 @@ URL: http://github.com/andreainfufsm/elc139-2021a
 
 ### Referências
 - Complete aqui: Top 500. [FRONTERA - DELL C6420, XEON PLATINUM 8280 28C 2.7GHZ, MELLANOX INFINIBAND HDR](https://top500.org/system/179607/)
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
+- Complete aqui: WikiChip [Core i5 - 6200U - Intel](https://en.wikichip.org/wiki/intel/core_i5/i5-6200u)
 - Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
 - ...
