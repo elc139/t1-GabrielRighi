@@ -8,7 +8,7 @@ URL: http://github.com/andreainfufsm/elc139-2021a
 | Característica                                            | Computador no TOP500  | Meu computador    |
 | --------------------------------------------------------- | --------------------- | ---------------   |
 | Nome/Título                                               |FRONTERA - DELL C6420 |Acer Aspire E15 (Virtual Machine Linux Mint)|
-| Imagem (foto, diagrama, screenshot, etc.)                 |<img src="https://www.tacc.utexas.edu/image/journal/article?img_id=1805393&t=1575409498704" width="200"> | Substitua-me. <img src="https://images-submarino.b2w.io/produtos/01/00/item/126417/6/126417670SZ.jpg" width="200">|
+| Imagem (foto, diagrama, screenshot, etc.)                 |<img src="https://www.tacc.utexas.edu/image/journal/article?img_id=1805393&t=1575409498704" width="200"> |<img src="https://d3alv7ekdacjys.cloudfront.net/Custom/Content/Products/10/23/1023359_notebook-acer-aspire-e5574592s-hd-1tb-intel-core-i5-tela-156-windows-10-grafite_z1_636652925833502905" width="200">|
 | Classificação de Flynn                                    |         MIMD          |       SIMD        |
 | Memória: compartilhada, distribuída ou ambas?             |                       |   Compartilhada   |
 | Número total de núcleos de processamento                  |        448,448        |         2         |
