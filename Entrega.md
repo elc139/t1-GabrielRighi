@@ -1,7 +1,7 @@
 TOP500 & me: Comparativo de Arquiteturas Paralelas
 --------------------------------------------------
 
-Nome: < Gabriel Farencena Righi >  
+Nome: Gabriel Farencena Righi
 Disciplina: ELC139 - Programação Paralela - UFSM - 2021a  
 URL: http://github.com/andreainfufsm/elc139-2021a  
 
