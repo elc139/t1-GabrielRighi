@@ -19,7 +19,7 @@ URL: http://github.com/andreainfufsm/elc139-2021a
 | Desempenho Linpack                                        |    23,516.4 TFlop/s   |  9.7288 GFlops/s  |
 
 ### Referências
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
+- Complete aqui: Top 500. FRONTERA - DELL C6420, XEON PLATINUM 8280 28C 2.7GHZ, MELLANOX INFINIBAND HDR. https://top500.org/system/179607/.
 - Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
 - Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
 - ...
