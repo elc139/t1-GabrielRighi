@@ -8,8 +8,8 @@ URL: http://github.com/andreainfufsm/elc139-2021a
 | Característica                                            | Computador no TOP500  | Meu computador    |
 | --------------------------------------------------------- | --------------------- | ---------------   |
 | Nome/Título                                               |FRONTERA - DELL C6420 |Acer Aspire E15 (Virtual Machine Linux Mint)|
-| Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
-| Classificação de Flynn                                    |                       |       SIMD        |
+| Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="https://www.tacc.utexas.edu/image/journal/article?img_id=1805393&t=1575409498704" width="48"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
+| Classificação de Flynn                                    |         MIMD          |       SIMD        |
 | Memória: compartilhada, distribuída ou ambas?             |                       |   Compartilhada   |
 | Número total de núcleos de processamento                  |        448,448        |         2         |
 | Fabricante e modelo do(s) processador(es)                 |  Xeon Platinum 8280   |Intel Core i5 6200U|
