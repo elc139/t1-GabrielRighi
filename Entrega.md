@@ -9,7 +9,7 @@ URL: http://github.com/andreainfufsm/elc139-2021a
 | --------------------------------------------------------- | --------------------- | ---------------   |
 | Nome/Título                                               |FRONTERA - DELL C6420 |Acer Aspire E15 (Virtual Machine Linux Mint)|
 | Imagem (foto, diagrama, screenshot, etc.)                 |<img src="https://www.tacc.utexas.edu/image/journal/article?img_id=1805393&t=1575409498704" width="200"> |<img src="https://recomendacaodenotebooks.com.br/wp-content/uploads/2015/10/Acer-Aspire-E5-573G-72UF-696x534.jpg" width="200">|
-| Classificação de Flynn                                    |         MIMD          |       SIMD        |
+| Classificação de Flynn                                    |  Híbrido: MIMD/SIMD   |Híbrido: MIMD/SIMD |
 | Memória: compartilhada, distribuída ou ambas?             |         Ambas         |   Compartilhada   |
 | Número total de núcleos de processamento                  |        448,448        |         2         |
 | Fabricante e modelo do(s) processador(es)                 |  Xeon Platinum 8280   |Intel Core i5 6200U|
